@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/mojorojo-sys-design/mlruns/0/c2e6a3c0e7ac499db9ef1d2db4291698/artifacts
+end_time: 1715953611651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2e6a3c0e7ac499db9ef1d2db4291698
+run_name: 2011-01-29 00:00:00-2011-02-07 23:00:00
+run_uuid: c2e6a3c0e7ac499db9ef1d2db4291698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715953605855
+status: 4
+tags: []
+user_id: user
